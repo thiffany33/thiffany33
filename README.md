@@ -27,6 +27,10 @@
   - JavaScript 
   - Java
 
+## Github Stats
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=thiffany33&show_icons=true&theme=midnight-purple&line_height=30&title_color=3264ad&icon_color=3264ad&count_private=true)](https://github.com/thiffany33)
+
 
 ## Volunteering History
 - Coordenation of the Physics Team - ONG Em Foco [January 2019 - until now]
