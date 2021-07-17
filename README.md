@@ -1,4 +1,4 @@
-# Welcome To My GitHub! ![Brocolinho](https://i.imgur.com/NsPkT2a.png)
+# Welcome To My GitHub! ![Brocolinho](./images/brocolinho.png)
   
 [![GitHub Bagde](https://img.shields.io/badge/-Follow%20Me!-3264ad?style=flat-square&labelColor=3264ad&logo=github&logoColor=white)](https://github.com/thiffany33)
 [![Instagram Badge](https://img.shields.io/badge/-@Thiffany-3264ad?style=flat-square&labelColor=3264ad&logo=instagram&logoColor=white&link=https://instagram.com/thiffany33)](https://instagram.com/thiffany33)
