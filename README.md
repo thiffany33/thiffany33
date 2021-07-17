@@ -1,6 +1,5 @@
 # Welcome To My GitHub! ![Brocolinho](./images/brocolinho.png)
   
-[![GitHub Bagde](https://img.shields.io/badge/-Follow%20Me!-3264ad?style=flat-square&labelColor=3264ad&logo=github&logoColor=white)](https://github.com/thiffany33)
 [![Instagram Badge](https://img.shields.io/badge/-@Thiffany-3264ad?style=flat-square&labelColor=3264ad&logo=instagram&logoColor=white&link=https://instagram.com/thiffany33)](https://instagram.com/thiffany33)
 [![Gmail Badge](https://img.shields.io/badge/-thiffanygabrielle48@gmail.com-3264ad?style=flat-square&labelColor=3264ad&logo=Gmail&logoColor=white&link=mailto:thiffanygabrielle48@gmail.com)](mailto:thiffanygabrielle48@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-@brocoliss%237872-3264ad?style=flat-square&labelColor=3264ad&logo=discord&logoColor=white)](https://discord.com/users/757027493495570513)
