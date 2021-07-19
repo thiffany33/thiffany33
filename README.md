@@ -33,6 +33,6 @@
 
 ## Volunteering History
 - Coordenation of the Physics Team - ONG Em Foco [January 2019 - until now]
-- Mais Vida - Hospital Pequeno Principe [January 2017 - until now]
+- More Life - Little Prince Hospital [January 2017 - until now]
 - Social Media - ONG Atitude na Cabeça [June 2018 - September 2020]
 - Physics Mentoring - Project Mentoriza [May 2020 - September 2020]
