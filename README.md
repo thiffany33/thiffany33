@@ -15,12 +15,11 @@
 *(Leveling Rule: Novice / Beginner / Intermediate / Advanced / Expert)*
 - Development
   - Main Language: C# [Advanced]
-  - Second Main Language: CSS [Intermediate]
+  - Second Main Language: C [Advanced]
 - Specific Knowledge:
   - HTML5 [Advanced]
   - CSS [Intermediate]
   - C++ [Intermediate]
-  - C [Advanced]
 - Intend to Study: (In order of interest (most interested at the top of the list))
   - Artificial intelligence
   - JavaScript 
