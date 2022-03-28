@@ -28,6 +28,7 @@
 ## Github Stats
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=thiffany33&show_icons=true&theme=midnight-purple&line_height=30&title_color=3264ad&icon_color=3264ad&count_private=true)](https://github.com/thiffany33)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiffany33&layout=compact&langs_count=7&theme=midnight-purple&line_height=30&title_color=3264ad&icon_color=3264"/>
 
 
 ## Volunteering History
