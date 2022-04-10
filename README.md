@@ -6,9 +6,10 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-@thiffany33-3264ad?style=flat-square&labelColor=3264ad&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiffany33/)
 
 ##  Personal Informations!
-- My name is Thiffany Goncalves
+- name is Thiffany Goncalves
 - I'm 22 years old 🎉
-- I live in Portugal
+- Live in Portugal 🇵🇹
+- love broccoli 🥦
 
 
 ## Specific Informations:
